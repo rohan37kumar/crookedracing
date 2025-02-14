@@ -9,12 +9,7 @@ Welcome to Crooked Racing, an exhilarating WebGL racing game where you navigate 
 - Fullscreen mode for an immersive racing experience.
 
 **How to Play:**
-1. **Desktop:** Simply open the HTML file in your browser to start playing.
-2. **Mobile:** WebGL builds are not supported on mobile devices.
-
-**Game Controls:**
-- Use the arrow keys or on-screen controls to steer your vehicle.
-- Click the fullscreen button to maximize your gaming experience.
+**Desktop:** Simply open the HTML file in your browser to start playing.
 
 **Developer Notes:**
 - Built with Unity and WebGL technology.
